@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
 
-
     <meta charset="UTF-8">
     <title>Counter</title>
 </head>
@@ -10,6 +9,7 @@
     <div id="app">
         <h2>Vue Example</h2>
         <counter></counter>
+
 
         <hr>
 
