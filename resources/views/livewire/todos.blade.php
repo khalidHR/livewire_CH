@@ -1,6 +1,7 @@
 <div>
 
 
+
     <div class="mb-4">
         <input type="text" name="addTodo" class="form-control form-control-lg" id="addTodo" placeholder="What needs to be done?"  wire:model="title" wire:keydown.enter="addTodo">
         {{-- <button class="btn btn-primary" wire:click="addTodo" type="submit">Add</button> --}}
