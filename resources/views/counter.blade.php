@@ -10,7 +10,6 @@
         <h2>Vue Example</h2>
         <counter></counter>
 
-
         <hr>
 
         <h2>Livewire Example</h2>
