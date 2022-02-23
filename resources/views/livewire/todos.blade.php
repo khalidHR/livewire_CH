@@ -15,6 +15,7 @@
             <li class="list-group-item d-flex justify-content-between align-items-center">
               <div>
                 <input type="checkbox" wire:change="toggleTodo({{$todo->id}})" class="mr-4" {{$todo->completed ? 'checked' : ''}}>
+                
                 <a
                     href="#"
                     class="{{ $todo->completed ? 'completed' : ''}}"
