@@ -13,6 +13,7 @@
 
         <hr>
 
+
         <h2>Livewire Example</h2>
         @livewire('counter')
     </div>
