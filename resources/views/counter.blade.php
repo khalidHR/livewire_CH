@@ -9,7 +9,6 @@
         <h2>Vue Example</h2>
         <counter></counter>
 
-
         <hr>
 
 
