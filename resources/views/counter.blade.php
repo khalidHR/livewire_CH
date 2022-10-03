@@ -7,6 +7,7 @@
 <body>
 
 
+
     <div id="app">
         <h2>Vue Example</h2>
         <counter></counter>
